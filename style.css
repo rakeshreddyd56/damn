@@ -1,0 +1,47 @@
+body {
+ background-color: #e3f6f5;
+}
+hr{
+
+  border-style: dotted none none ;
+
+  border-width: 5px;
+
+
+  width:30px;
+}
+
+h1{
+
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+ li{
+
+   text-align: center;
+ }
+h2{
+  background-color: yellow;
+  text-align: center;
+  border-style: double;
+}
+a{
+  text-align: center;
+}
+td{
+  color: #3a3535;
+  font-size: 30px;
+}
+table{
+  display: grid;
+}
+
+.chick{
+  background-color: yellow;
+}
+.dragon{
+  background-color: red;
+  background-position: center;
+}
